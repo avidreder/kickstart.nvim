@@ -1,5 +1,5 @@
 return { -- Fuzzy Finder (files, lsp, etc)
-  'ThePrimagen/harpoon',
+  'ThePrimeagen/harpoon',
   branch = 'harpoon2',
   event = 'VimEnter',
   dependencies = {
