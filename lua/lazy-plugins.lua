@@ -10,7 +10,7 @@
 --
 -- NOTE: Here is where you install your plugins.
 require('lazy').setup({
-  require 'plugins.nerdtree',
+  require 'plugins.nvim-tree',
   require 'plugins/lazygit',
   'christoomey/vim-tmux-navigator',
   require 'plugins/harpoon',
